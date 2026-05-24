@@ -1,6 +1,6 @@
 # Peace Arowoyele Portfolio
 
-A modern portfolio website with dynamic image gallery management.
+A modern portfolio website with dynamic image gallery management system.
 
 ## Features
 
